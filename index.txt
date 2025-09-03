@@ -1,2 +1,2 @@
 # This is Sample TXT FILE
-# Każdy Wykonaj instrukcje zgodnie z treścią zadania.
+#  Wykonaj instrukcje zgodnie z treścią zadania.
