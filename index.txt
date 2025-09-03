@@ -1,2 +1,2 @@
 # This is Sample TXT FILE
-# Każdy Dopisuje 1 linijkę zawierającą imię i pierwszą literę nazwiska zgodnie ze wzorem: (np. Mateusz W.)
+# Każdy Wykonaj instrukcje zgodnie z treścią zadania.
