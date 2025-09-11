@@ -1,7 +1,9 @@
 # This is Sample TXT FILE
 #  Wykonaj instrukcje zgodnie z treścią zadania.
 Przemek P. [HTTP]
+Patrycja S. [HTTP]
+Mateusz Ś. [HTTP]
 Zuzia O. [HTTP]
 Kacper M. [HTTP]
-Mateusz Ś. [HTTP]
+Wiczka S. [HTTP]
 >>>>>>>>> Temporary merge branch 2
