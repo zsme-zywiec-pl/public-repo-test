@@ -1,16 +1,10 @@
 # This is Sample TXT FILE
 #  Wykonaj instrukcje zgodnie z treścią zadania.
-<<<<<<<<< Temporary merge branch 1
 Przemek P. [HTTP]
 Zuzia O. [HTTP]
 Kacper M. [HTTP]
 Wiczka S. [HTTP]
-=========
 Wiczka S. [HTTP]
 Dominik Z. [HTTP]
-<<<<<<< HEAD
->>>>>>>>> Temporary merge branch 2
-=======
 Krzysiek U. [HTTP]
->>>>>>> d62d1c08a7201c53b69ff3b6aee3fb8484641d6f
->>>>>>> ff574bac920695dc158c1197a88766cb22a76b5a
+
