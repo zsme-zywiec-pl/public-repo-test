@@ -1,4 +1,1 @@
-# This is Sample TXT FILE
-#  Wykonaj instrukcje zgodnie z treścią zadania.
-Mateusz Ś. [HTTP]
-Branch - "mateusz"
+branch - mateusz
