@@ -1,5 +1,9 @@
 # This is Sample TXT FILE
 #  Wykonaj instrukcje zgodnie z treścią zadania.
+<<<<<<< HEAD
 Przemek P. [HTTP]
 Zuzia O. [HTTP]
 Kacper M. [HTTP]
+=======
+Wiczka S. [HTTP]
+>>>>>>> c0e6e567f28a2b13b4879864d7a9abefc04fa902
