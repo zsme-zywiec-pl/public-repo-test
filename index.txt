@@ -3,6 +3,7 @@
 Przemek P. [HTTP]
 Zuzia O. [HTTP]
 Kacper M. [HTTP]
+<<<<<<< HEAD
 Mateusz Ś. [HTTP]
 Mateusz Ś. [HTTP]
 Mateusz Ś. [HTTP]
@@ -116,4 +117,13 @@ Mateusz Ś. [HTTP]
 
 Paweł M. [HTTP]
 
+=======
+Wiczka S. [HTTP]
+Wiczka S. [HTTP]
+Dominik Z. [HTTP]
+Krzysiek U. [HTTP]
+>>>>>>> 188150616f86a5b0727e43d8e87a2b1808390ca2
 
+branch - Mateusz
+
+Paweł M. [HTTP]
